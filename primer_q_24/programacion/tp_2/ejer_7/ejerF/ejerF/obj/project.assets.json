@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": []
+  },
+  "packageFolders": {
+    "/home/mariano/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/mariano/Documentos/tecnicatura/primer_q_24/programacion/tp_2/ejer_7/ejerF/ejerF/ejerF.csproj",
+      "projectName": "ejerF",
+      "projectPath": "/home/mariano/Documentos/tecnicatura/primer_q_24/programacion/tp_2/ejer_7/ejerF/ejerF/ejerF.csproj",
+      "packagesPath": "/home/mariano/.nuget/packages/",
+      "outputPath": "/home/mariano/Documentos/tecnicatura/primer_q_24/programacion/tp_2/ejer_7/ejerF/ejerF/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/mariano/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

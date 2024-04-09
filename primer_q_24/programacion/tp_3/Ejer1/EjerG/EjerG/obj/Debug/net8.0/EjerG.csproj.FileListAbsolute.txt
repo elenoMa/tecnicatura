@@ -1,0 +1,15 @@
+/home/mariano/Documentos/tecnicatura/primer_q_24/programacion/tp_3/Ejer1/EjerG/EjerG/bin/Debug/net8.0/EjerG
+/home/mariano/Documentos/tecnicatura/primer_q_24/programacion/tp_3/Ejer1/EjerG/EjerG/bin/Debug/net8.0/EjerG.deps.json
+/home/mariano/Documentos/tecnicatura/primer_q_24/programacion/tp_3/Ejer1/EjerG/EjerG/bin/Debug/net8.0/EjerG.runtimeconfig.json
+/home/mariano/Documentos/tecnicatura/primer_q_24/programacion/tp_3/Ejer1/EjerG/EjerG/bin/Debug/net8.0/EjerG.dll
+/home/mariano/Documentos/tecnicatura/primer_q_24/programacion/tp_3/Ejer1/EjerG/EjerG/bin/Debug/net8.0/EjerG.pdb
+/home/mariano/Documentos/tecnicatura/primer_q_24/programacion/tp_3/Ejer1/EjerG/EjerG/obj/Debug/net8.0/EjerG.GeneratedMSBuildEditorConfig.editorconfig
+/home/mariano/Documentos/tecnicatura/primer_q_24/programacion/tp_3/Ejer1/EjerG/EjerG/obj/Debug/net8.0/EjerG.AssemblyInfoInputs.cache
+/home/mariano/Documentos/tecnicatura/primer_q_24/programacion/tp_3/Ejer1/EjerG/EjerG/obj/Debug/net8.0/EjerG.AssemblyInfo.cs
+/home/mariano/Documentos/tecnicatura/primer_q_24/programacion/tp_3/Ejer1/EjerG/EjerG/obj/Debug/net8.0/EjerG.csproj.CoreCompileInputs.cache
+/home/mariano/Documentos/tecnicatura/primer_q_24/programacion/tp_3/Ejer1/EjerG/EjerG/obj/Debug/net8.0/EjerG.sourcelink.json
+/home/mariano/Documentos/tecnicatura/primer_q_24/programacion/tp_3/Ejer1/EjerG/EjerG/obj/Debug/net8.0/EjerG.dll
+/home/mariano/Documentos/tecnicatura/primer_q_24/programacion/tp_3/Ejer1/EjerG/EjerG/obj/Debug/net8.0/refint/EjerG.dll
+/home/mariano/Documentos/tecnicatura/primer_q_24/programacion/tp_3/Ejer1/EjerG/EjerG/obj/Debug/net8.0/EjerG.pdb
+/home/mariano/Documentos/tecnicatura/primer_q_24/programacion/tp_3/Ejer1/EjerG/EjerG/obj/Debug/net8.0/EjerG.genruntimeconfig.cache
+/home/mariano/Documentos/tecnicatura/primer_q_24/programacion/tp_3/Ejer1/EjerG/EjerG/obj/Debug/net8.0/ref/EjerG.dll

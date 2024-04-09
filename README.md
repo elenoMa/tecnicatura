@@ -18,4 +18,10 @@ Documentos de las materias de TUP.
 
 
 
+### Horarios 1Q24
+
+|   Hora    |    Lunes   |  Martes  |   Miercoles   |   Jueves  |   Viernes     | 
+|-----------|------------|----------|---------------|-----------|---------------|
+|  18 a 22  | Arq. y SOs |  Prog. I |  Prog. I      | Empresas  | Matematicas   |
+
 

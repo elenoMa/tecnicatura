@@ -1,0 +1,15 @@
+/home/mariano/Documentos/tecnicatura/primer_q_24/programacion/tp_3/Ejer2/NotasAlumno/NotasAlumnos/bin/Debug/net8.0/NotasAlumnos
+/home/mariano/Documentos/tecnicatura/primer_q_24/programacion/tp_3/Ejer2/NotasAlumno/NotasAlumnos/bin/Debug/net8.0/NotasAlumnos.deps.json
+/home/mariano/Documentos/tecnicatura/primer_q_24/programacion/tp_3/Ejer2/NotasAlumno/NotasAlumnos/bin/Debug/net8.0/NotasAlumnos.runtimeconfig.json
+/home/mariano/Documentos/tecnicatura/primer_q_24/programacion/tp_3/Ejer2/NotasAlumno/NotasAlumnos/bin/Debug/net8.0/NotasAlumnos.dll
+/home/mariano/Documentos/tecnicatura/primer_q_24/programacion/tp_3/Ejer2/NotasAlumno/NotasAlumnos/bin/Debug/net8.0/NotasAlumnos.pdb
+/home/mariano/Documentos/tecnicatura/primer_q_24/programacion/tp_3/Ejer2/NotasAlumno/NotasAlumnos/obj/Debug/net8.0/NotasAlumnos.GeneratedMSBuildEditorConfig.editorconfig
+/home/mariano/Documentos/tecnicatura/primer_q_24/programacion/tp_3/Ejer2/NotasAlumno/NotasAlumnos/obj/Debug/net8.0/NotasAlumnos.AssemblyInfoInputs.cache
+/home/mariano/Documentos/tecnicatura/primer_q_24/programacion/tp_3/Ejer2/NotasAlumno/NotasAlumnos/obj/Debug/net8.0/NotasAlumnos.AssemblyInfo.cs
+/home/mariano/Documentos/tecnicatura/primer_q_24/programacion/tp_3/Ejer2/NotasAlumno/NotasAlumnos/obj/Debug/net8.0/NotasAlumnos.csproj.CoreCompileInputs.cache
+/home/mariano/Documentos/tecnicatura/primer_q_24/programacion/tp_3/Ejer2/NotasAlumno/NotasAlumnos/obj/Debug/net8.0/NotasAlumnos.sourcelink.json
+/home/mariano/Documentos/tecnicatura/primer_q_24/programacion/tp_3/Ejer2/NotasAlumno/NotasAlumnos/obj/Debug/net8.0/NotasAlumnos.dll
+/home/mariano/Documentos/tecnicatura/primer_q_24/programacion/tp_3/Ejer2/NotasAlumno/NotasAlumnos/obj/Debug/net8.0/refint/NotasAlumnos.dll
+/home/mariano/Documentos/tecnicatura/primer_q_24/programacion/tp_3/Ejer2/NotasAlumno/NotasAlumnos/obj/Debug/net8.0/NotasAlumnos.pdb
+/home/mariano/Documentos/tecnicatura/primer_q_24/programacion/tp_3/Ejer2/NotasAlumno/NotasAlumnos/obj/Debug/net8.0/NotasAlumnos.genruntimeconfig.cache
+/home/mariano/Documentos/tecnicatura/primer_q_24/programacion/tp_3/Ejer2/NotasAlumno/NotasAlumnos/obj/Debug/net8.0/ref/NotasAlumnos.dll
