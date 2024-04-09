@@ -1,6 +1,6 @@
 # tecnicatura
  
-Documentos de las materias de TUP.
+Documentos de las materias de TUP  de Eleno Mariano.
 
 ## Materias por Cuatrimestre
 
